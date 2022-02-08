@@ -1,8 +1,3 @@
-"""
-LESSON: 2.4 - While Loops
-EXERCISE: Last Cookie
-"""
-
 #### ---- VARIABLE SETUP ---- ####
 print("Let's play Last Cookie! ")
 print("Who will get the last cookie? ")
@@ -10,7 +5,6 @@ print("Who will get the last cookie? ")
 cookies = 16
 
 # Assign the value True to the variable player1_turn
-# ---> TEST AFTER THIS LINE <--- #
 player1_turn = True
 
 
@@ -69,13 +63,5 @@ while cookies > 0:
 #### ---- FINAL OUTPUT ---- ####
 
 # Print a win message using the current_player string
-# ---> TEST AFTER THIS LINE <--- #
 print("Congratulations, " + current_player + " you are the winner!")
 print("")
-
-# Turn in your Coding Exercise.
-
-
-
-
-
